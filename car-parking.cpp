@@ -73,13 +73,10 @@ int main(){
     }
 
     else {
-        cout<<"Inavalid Number!!!"<<endl;
+        cout<<"Invalid Number!!!"<<endl;
     }
 
     }
-    
-
-
 
     return 0;
 }
