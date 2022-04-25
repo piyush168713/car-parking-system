@@ -1,0 +1,14 @@
+Car Parking System:
+
+- we initialize the value of amount and count is 0.
+- we initially initialize the value of r, c, b is 0.
+  r = rickshaw, c = car, b = bus
+
+- we use while loop
+- Taking the input from user of rickshaw, car and bus
+  and using while loop and add the vehicles and increase the no. of vehicles and amount.
+
+- then we show to user that how many vehicles are parked and amount.
+
+- we can delete the whole record.
+- If user enters any invalid number then it screen will popup the error messege of Invalid Number!!!
